@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhttps%2F%2Fgithub.com%2Fgimhae-person%2Fgimhae-person%2F&count_bg=%23FFC535&title_bg=%23555555&icon=&icon_color=%23FFF2C0&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://www.notion.so/gimhae-person/4c5f73b2f73c4972b84388bc2fa00ed4?v=2a00c6a25c4549aebedc10d0c2472e99")
+[![Notion Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://www.notion.so/gimhae-person/4c5f73b2f73c4972b84388bc2fa00ed4?v=2a00c6a25c4549aebedc10d0c2472e99)
 
 ### 🌱 I’m currently learning at codestates
 
