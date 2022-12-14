@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 ### 🌱 I’m currently learning at codestates
 
-![gimhae-person's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimhae-person&show_icons=true&theme=onedark)
+![gimhae-person's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimhae-person&show_icons=true&theme=onedark)  
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hyeino3o)](https://solved.ac/hyeino3o)  
-#
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gimhae-person&layout=compact&theme=cobalt)  
-#
+
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://www.notion.so/gimhae-person/4c5f73b2f73c4972b84388bc2fa00ed4?v=2a00c6a25c4549aebedc10d0c2472e99")
