@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **gimhae-person/gimhae-person** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhttps%2F%2Fgithub.com%2Fgimhae-person%2Fgimhae-person%2F&count_bg=%23FFA800&title_bg=%23555555&icon=&icon_color=%23F1DAA1&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhttps%2F%2Fgithub.com%2Fgimhae-person%2Fgimhae-person%2F&count_bg=%23F1DAA1&title_bg=%23555555&icon=&icon_color=%23FFA800&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 🌱 I’m currently learning at codestates
 
