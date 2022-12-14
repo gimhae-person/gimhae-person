@@ -21,9 +21,11 @@ Here are some ideas to get you started:
 ### ✏️ GitHub stats
 ![gimhae-person's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimhae-person&show_icons=true&theme=onedark) 
 
-### 📊 Most used language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gimhae-person&layout=compact&theme=cobalt)  
-
 ### 🥇 Baekjoon solved rank
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hyeino3o)](https://solved.ac/hyeino3o)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hyeino3o)](https://solved.ac/hyeino3o)
+
+### 📊 Most used language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gimhae-person&layout=compact&theme=onedark)  
+
+  
 
