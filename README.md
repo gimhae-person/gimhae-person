@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<center>
+
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhttps%2F%2Fgithub.com%2Fgimhae-person%2Fgimhae-person%2F&count_bg=%23FFC535&title_bg=%23555555&icon=&icon_color=%23FFF2C0&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 ### 📊 Most used language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gimhae-person&layout=compact&theme=onedark) 
  
-</center>  
 
   
 
