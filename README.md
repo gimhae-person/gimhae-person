@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align=center> 
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhttps%2F%2Fgithub.com%2Fgimhae-person%2Fgimhae-person%2F&count_bg=%23FFC535&title_bg=%23555555&icon=&icon_color=%23FFF2C0&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgimhae-person&count_bg=%23FFE573&title_bg=%23FFF4BE&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <a href="https://gimhae-person.notion.site/4c5f73b2f73c4972b84388bc2fa00ed4?v=2a00c6a25c4549aebedc10d0c2472e99"><img src="https://img.shields.io/badge/My Tech Blog Link-000000?style=for-the-badge&logo=notion&logoColor=#000000"></a>  
   
