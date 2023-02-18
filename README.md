@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 <a href="https://gimhae-person.notion.site/4c5f73b2f73c4972b84388bc2fa00ed4?v=2a00c6a25c4549aebedc10d0c2472e99"><img src="https://img.shields.io/badge/My Tech Blog Link-000000?style=for-the-badge&logo=notion&logoColor=#000000"></a>  
   
+  
+ ### 🛠 Tech Stacks
   #
   
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
