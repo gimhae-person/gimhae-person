@@ -46,7 +46,7 @@ Here are some ideas to get you started:
  
   #
 
-### ✏️ GitHub stats
+<!-- ### ✏️ GitHub stats
 ![gimhae-person's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimhae-person&show_icons=true&theme=onedark) 
 
 ### 🥇 Baekjoon solved rank
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 ### 📊 Most used language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gimhae-person&layout=compact&theme=onedark) 
 
-</div>
+</div> -->
 
   
 
