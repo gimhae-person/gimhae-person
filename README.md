@@ -43,6 +43,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Route 53-5A29E4?style=for-the-badge&logo=Route 53&logoColor=white"> 
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  
+  ![KakaoTalk_20230203_214021086](https://user-images.githubusercontent.com/110888559/227777781-a9ecd637-4581-4d56-a0b0-9c3508344a6f.jpg)
+
  
   #
 
