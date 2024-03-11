@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 
 <div align=center> 
   
+<!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgimhae-person&count_bg=%23FFE573&title_bg=%23FFF4BE&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+-->
 <!-- 
 <a href="https://gimhae-person.notion.site/4c5f73b2f73c4972b84388bc2fa00ed4?v=2a00c6a25c4549aebedc10d0c2472e99"><img src="https://img.shields.io/badge/My Tech Blog Link-000000?style=for-the-badge&logo=notion&logoColor=#000000"></a>   -->
   
-  
+<!--  
   #
   
    ### 🛠 Stacks
@@ -29,9 +31,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-<!--   <br>
+   <br>
   <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"> -->
+  <img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"> 
   <br>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"> 
@@ -55,6 +57,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white">
   <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white">
+-->
   
   
 
